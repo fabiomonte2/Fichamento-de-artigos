@@ -27,6 +27,7 @@ Linguagem utilizada: java e python.
 Os aspectos estudados que influenciam na recompra foram: da confiança e do comprometimento como fator intermediário importante, a satisfação específica da transação, a falha do comerciante em atender o pedido conforme esperado, o que o cliente deseja em um ambiente de compra e o processo de entrega do produto adquirido.
 ## Pontos Fracos 
 - Trata de comércio eletrônicos em geral de sites da china e meu trabalho busca investigar as compras em supermercados, cuja a compra é mais recorrente. 
+- citado 6x
 ## Pontos Fortes 
 - o Autor descreve vários resultados da pesquisa que poderão ser usadas no meu pré-projeto, como por exemplo, o indicador preditivo "satisfação do cliente" que pode influenciar em uma possível recompra.
 - Análise de compra através da árvore de decisões 
