@@ -29,3 +29,6 @@ O procedimento de treinamento de infraestrutura híbrida associada
 ## pontos fortes
 
 A Pérsia está disponível ao público (https://github.com/PersiaML/Persia) para que qualquer pessoa possa treinar facilmente um modelo de recomendação na escala de 100 trilhões de parâmetros.
+
+## pontos fracos 
+Analise de trilhões de parâmetros
