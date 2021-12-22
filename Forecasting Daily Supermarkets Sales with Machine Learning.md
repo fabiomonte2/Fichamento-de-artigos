@@ -20,8 +20,9 @@ efeito positivo tanto ambiental quanto economicamente. Historicamente, essas pre
 durante a temporada de férias melhorou o desempenho. Além disso, a inclusão do clima não melhorou significativamente os modelos e, em alguns casos, os resultados foram agravados. Assim, os resultados são inconclusivos, mas indicam que o
 O melhor modelo depende do período de tempo e da meta da previsão.
 
-## comentário
 
+## comentário
+agoritmo xgboost 
 
 ## pontos fortes
 citado 81x
